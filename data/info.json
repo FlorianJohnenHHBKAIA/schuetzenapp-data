@@ -1,16 +1,14 @@
-{
-  "contents": [
-    {
-      "title": "Regimentskönig 2024/25: Martin Johnen",
-      "image": "https://FlorianJohnenHHBKAIA.github.io/schuetzenapp-data/schuetzenkoenig.png"
-    },
-    {
-      "title": "Jungschützenkönig 2024/25: Jonas Beuse",
-      "image": "https://FlorianJohnenHHBKAIA.github.io/schuetzenapp-data/jungschuetzenkoenig.png"
-    },
-    {
-      "title": "Pagenkönigin 2024/25",
-      "image": "https://FlorianJohnenHHBKAIA.github.io/schuetzenapp-data/pagenkoenig.png"
-    }
-  ]
-}
+[
+  {
+    "title": "Regimentskönig 2024/25: Martin Johnen",
+    "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/data/images/schuetzenkoenig.png"
+  },
+  {
+    "title": "Jungschützenkönig 2024/25: Jonas Beuse",
+    "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/data/images/jungschuetzenkoenig.png"
+  },
+  {
+    "title": "Pagenkönigin 2024/25",
+    "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/data/images/pagenkoenigin.png"
+  }
+]
