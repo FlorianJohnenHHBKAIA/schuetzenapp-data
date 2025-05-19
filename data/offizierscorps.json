@@ -1,1 +1,20 @@
-
+{
+  "items": [
+    {
+      "title": "Oberst: Johannes Adams",
+      "imageUrl": "https://example.com/images/oberst_mueller.jpg"
+    },
+    {
+      "title": "Major: Martin Weis",
+      "imageUrl": "https://example.com/images/majorin_schmidt.jpg"
+    },
+    {
+      "title": "Adjutant beim Oberst: Max Menke",
+      "imageUrl": "https://example.com/images/hauptmann_becker.jpg"
+    },
+    {
+      "title": "Adjutant beim Major: Jan Schweimanns",
+      "imageUrl": "https://example.com/images/leutnant_fischer.jpg"
+    }
+  ]
+}
