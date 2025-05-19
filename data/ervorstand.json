@@ -1,44 +1,40 @@
-[
-  {
-    "title": "Präses der Bruderschaft: Rainer Spiegel",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/praeses.png"
-  },
-  {
-    "title": "Chefadjutant: Michael Wagner",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/Chefadjutant.png"
-  },
-  {
-    "title": "1. Platzmeister: Heiner Honert",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/1_Platzmeister.png"
-  },
-  {
-    "title": "1. Schießmeister: Michael Fischer",
-    "image": "ttps://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/1_Schiessmeister.png"
-  },
-  {
-    "title": "2. Geschäftsführer: Marco Eisheuer",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Geschaeftsfuehrer.png"
-  },
-  {
-    "title": "2. Kassierer: Tapani Dohm",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Kassiere.png"
-  },
-  {
-    "title": "2. Platzmeister: Thomas Köhler",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Platzmeister.png"
-  },
-  {
-    "title": "2. Schießmeister: Sascha Offeroth",
-    "image": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Schiessmeister.png"
-  },
-  {
-    "title": "Beisitzer des Vorstands:",
-    "image": null,
-    "members": [
-      "Helmut Deußen",
-      "Jonas Beuse",
-      "Florian Johnen",
-      "Sophia Moll"
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "title": "Präses der Bruderschaft: Rainer Spiegel",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/praeses.png"
+    },
+    {
+      "title": "Chefadjutant: Michael Wagner",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/Chefadjutant.png"
+    },
+    {
+      "title": "1. Platzmeister: Heiner Honert",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/1_Platzmeister.png"
+    },
+    {
+      "title": "1. Schießmeister: Michael Fischer",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/1_Schiessmeister.png"
+    },
+    {
+      "title": "2. Geschäftsführer: Marco Eisheuer",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Geschaeftsfuehrer.png"
+    },
+    {
+      "title": "2. Kassierer: Tapani Dohm",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Kassiere.png"
+    },
+    {
+      "title": "2. Platzmeister: Thomas Köhler",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/2_Platzmeister.png"
+    },
+    {
+      "title": "2. Schießmeister: Sascha Offeroth",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main2_Schiessmeister.png"
+    },
+    {
+      "title": "Beisitzer des Vorstands:\nHelmut Deußen\nJonas Beuse\nFlorian Johnen\nSophia Moll",
+      
+    }
+  ]
+}
