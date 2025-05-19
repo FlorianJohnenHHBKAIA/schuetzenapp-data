@@ -1,1 +1,20 @@
-
+{
+  "items": [
+    {
+      "title": "1. Brudermeister: Thomas Hummelsbeck",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/images/1_Brudermeister.png"
+    },
+    {
+      "title": "2. Brudermeister: Stephan Speit",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/images/2_Brudermeister.png"
+    },
+    {
+      "title": "1. Geschäftsführer und Datenschutzbeauftragter: Werner Rieche",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/images/1_Geschaeftsfuehrer.png"
+    },
+    {
+      "title": "1. Kassierer: Armin Gerz",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/images/1_Kassierer.png"
+    }
+  ]
+}
