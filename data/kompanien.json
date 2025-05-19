@@ -1,13 +1,13 @@
 {
   "items": [
-    { "text": "Hauptmann Stephan Speit" },
-    { "text": "Kapitän Uwe Velten" },
-    { "text": "Hauptmann Uwe Gensow" },
-    { "text": "Hauptmann Jürgen Becker" },
-    { "text": "Hauptmann Jörg Nitsche" },
-    { "text": "Hauptmann Michael Janz" },
-    { "text": "Rittmeisterin Sonja Velten" },
-    { "text": "Sprecherin Katrin Honert" },
-    { "text": "Hauptmann Julian Losberg" }
+    { "text": "Hauptmann: Stephan Speit" },
+    { "text": "Kapitän: Uwe Velten" },
+    { "text": "Hauptmann: Uwe Gensow" },
+    { "text": "Hauptmann: Jürgen Becker" },
+    { "text": "Hauptmann: Jörg Nitsche" },
+    { "text": "Hauptmann: Michael Janz" },
+    { "text": "Rittmeisterin: Sonja Velten" },
+    { "text": "Sprecherin: Katrin Honert" },
+    { "text": "Hauptmann: Julian Losberg" }
   ]
 }
