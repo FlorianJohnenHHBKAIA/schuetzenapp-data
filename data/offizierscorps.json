@@ -2,19 +2,19 @@
   "items": [
     {
       "title": "Oberst: Johannes Adams",
-      "imageUrl": "https://example.com/images/oberst_mueller.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/oberst.png"
     },
     {
       "title": "Major: Martin Weis",
-      "imageUrl": "https://example.com/images/majorin_schmidt.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/major.png"
     },
     {
       "title": "Adjutant beim Oberst: Max Menke",
-      "imageUrl": "https://example.com/images/hauptmann_becker.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/adjoberst.png"
     },
     {
       "title": "Adjutant beim Major: Jan Schweimanns",
-      "imageUrl": "https://example.com/images/leutnant_fischer.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/adjmajor.png"
     }
   ]
 }
