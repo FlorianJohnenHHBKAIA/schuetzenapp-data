@@ -15,5 +15,20 @@
       "date": "2025-08-02T14:00:00",
       "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/tag2.png"
     }
+    {
+      "title": "Antreten am Ehrenmal",
+      "date": "2025-08-01",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/ehrenmal.png"
+    },
+    {
+      "title": "Königsschießen",
+      "date": "2025-08-02",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/koenigsschiessen.png"
+    },
+    {
+      "title": "Festumzug",
+      "date": "2025-08-03",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/festumzug.png"
+    }
   ]
 }
