@@ -1,1 +1,19 @@
-
+{
+  "events": [
+    {
+      "title": "Zeltaufbau",
+      "date": "2025-07-15T10:00:00",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/zeltaufbau.png"
+    },
+    {
+      "title": "Schützenfest Tag 1",
+      "date": "2025-08-01T18:00:00",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/tag1.png"
+    },
+    {
+      "title": "Schützenfest Tag 2",
+      "date": "2025-08-02T14:00:00",
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/tag2.png"
+    }
+  ]
+}
