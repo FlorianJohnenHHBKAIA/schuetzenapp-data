@@ -3,10 +3,7 @@
     {
       "title": "Dorffest",
       "date": "2025-06-28T14:00:00",
-      "imageUrls": [
-        "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/dorffest.jpg",
-        "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/Chefadjutant.png"
-        ]
+      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/dorffest.jpg"
     },
     {
       "title": "Schützenfest Tag 1",
