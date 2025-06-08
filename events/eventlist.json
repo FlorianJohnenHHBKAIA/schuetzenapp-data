@@ -3,7 +3,10 @@
     {
       "title": "Zeltaufbau",
       "date": "2025-07-15T10:00:00",
-      "imageUrl": "https://raw.githubusercontent.com/FlorianJohnenHHBKAIA/schuetzenapp-data/main/zeltaufbau.png"
+      "imageUrls": [
+        "https://.../tag1a.png",
+        "https://.../tag1b.png"
+        ]
     },
     {
       "title": "Schützenfest Tag 1",
